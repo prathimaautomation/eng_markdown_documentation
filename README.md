@@ -11,5 +11,5 @@
 ```
 - ` print("for single line of code") `
 - To add a link or URL
-- [Python Basics Repo Link] (https://github.com/khanmaster/engi_89_python_basics)
+- [Python Basics Repo Link] (https://github.com/prathimaautomation/engi_89_python_basics)
 - To add an image
